@@ -1,0 +1,21 @@
+#navbarNav{
+    justify-content: right;
+}
+#email{
+    padding:8px;
+}
+#features{
+    height: 70vh;
+    padding: 40px;
+    background-color: #f8f9fa;
+}
+#submit{
+    border: none;
+    background-color:#07ad60;
+    border-radius: 0;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+i{
+    color:#07ad60;
+}
